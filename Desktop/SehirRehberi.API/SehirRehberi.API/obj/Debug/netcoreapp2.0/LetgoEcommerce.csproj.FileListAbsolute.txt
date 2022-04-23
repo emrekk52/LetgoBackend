@@ -1,0 +1,15 @@
+C:\Users\emre.kucuk\Desktop\SehirRehberi.API\SehirRehberi.API\obj\Debug\netcoreapp2.0\LetgoEcommerce.csproj.AssemblyReference.cache
+C:\Users\emre.kucuk\Desktop\SehirRehberi.API\SehirRehberi.API\obj\Debug\netcoreapp2.0\LetgoEcommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre.kucuk\Desktop\SehirRehberi.API\SehirRehberi.API\obj\Debug\netcoreapp2.0\LetgoEcommerce.AssemblyInfoInputs.cache
+C:\Users\emre.kucuk\Desktop\SehirRehberi.API\SehirRehberi.API\obj\Debug\netcoreapp2.0\LetgoEcommerce.AssemblyInfo.cs
+C:\Users\emre.kucuk\Desktop\SehirRehberi.API\SehirRehberi.API\obj\Debug\netcoreapp2.0\LetgoEcommerce.csproj.CoreCompileInputs.cache
+C:\Users\emre.kucuk\Desktop\SehirRehberi.API\SehirRehberi.API\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\emre.kucuk\Desktop\SehirRehberi.API\SehirRehberi.API\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\emre.kucuk\Desktop\SehirRehberi.API\SehirRehberi.API\bin\Debug\netcoreapp2.0\LetgoEcommerce.deps.json
+C:\Users\emre.kucuk\Desktop\SehirRehberi.API\SehirRehberi.API\bin\Debug\netcoreapp2.0\LetgoEcommerce.runtimeconfig.json
+C:\Users\emre.kucuk\Desktop\SehirRehberi.API\SehirRehberi.API\bin\Debug\netcoreapp2.0\LetgoEcommerce.runtimeconfig.dev.json
+C:\Users\emre.kucuk\Desktop\SehirRehberi.API\SehirRehberi.API\bin\Debug\netcoreapp2.0\LetgoEcommerce.dll
+C:\Users\emre.kucuk\Desktop\SehirRehberi.API\SehirRehberi.API\bin\Debug\netcoreapp2.0\LetgoEcommerce.pdb
+C:\Users\emre.kucuk\Desktop\SehirRehberi.API\SehirRehberi.API\obj\Debug\netcoreapp2.0\LetgoEcommerce.dll
+C:\Users\emre.kucuk\Desktop\SehirRehberi.API\SehirRehberi.API\obj\Debug\netcoreapp2.0\LetgoEcommerce.pdb
+C:\Users\emre.kucuk\Desktop\SehirRehberi.API\SehirRehberi.API\obj\Debug\netcoreapp2.0\LetgoEcommerce.genruntimeconfig.cache
