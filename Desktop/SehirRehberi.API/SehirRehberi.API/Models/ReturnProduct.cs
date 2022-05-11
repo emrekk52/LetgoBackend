@@ -14,6 +14,7 @@ namespace LetgoEcommerce.Models
         public string header { get; set; }
 
         public string description { get; set; }
+        public string city_name { get; set; }
 
         public double price { get; set; }
 
@@ -22,6 +23,8 @@ namespace LetgoEcommerce.Models
         public DateTime? created_date { get; set; }
         public List<string> image_list { get; set; }
         public string category { get; set; }
+        public ReturnCarExtension car_extension { get; set; }
+
         
     }
 }

@@ -36,21 +36,7 @@ namespace LetgoEcommerce.Controllers
 
             var city = await _context.City.Where(c => c.id.Equals(user.city_id)).FirstOrDefaultAsync();
 
-            var photo = "";
-            if (image != null)
-            {
-
-                if (image.photo_url != null)
-                    photo = image.photo_url;
-                else
-                {
-                    string base64Photo = Convert.ToBase64String(image.image);
-
-                    var photoUrl = "data:image/png;base64," + base64Photo;
-
-                    photo = photoUrl;
-                }
-            }
+            
 
             var _user = new UserProfile()
             {
@@ -59,7 +45,7 @@ namespace LetgoEcommerce.Controllers
                 surname = user.surname,
                 name = user.name,
                 email = user.email,
-                image = photo,
+                photo_url = image.photo_url,
                 city = city.city_name
             };
 
@@ -81,8 +67,7 @@ namespace LetgoEcommerce.Controllers
             {
                 var _image = new Image()
                 {
-                    uid = (int)photo.id,
-                    image = null,
+                    uid = (int)photo.id,          
                     photo_url = photo.PhotoUrl,
                     description = "profile",
                     product_id = null

@@ -10,5 +10,6 @@ namespace LetgoEcommerce.Models
 
         public int? id { get; set; }
         public string city_name { get; set; }
+        public string iframe { get; set; }
     }
 }

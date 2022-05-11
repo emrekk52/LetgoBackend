@@ -20,5 +20,7 @@ namespace LetgoEcommerce.Data
         public DbSet<Category> Category { get; set; }
         public DbSet<City> City { get; set; }
         public DbSet<Image> images { get; set; }
+        public DbSet<CarExtension> Car_Extension { get; set; }
+        public DbSet<Message> Message { get; set; }
     }
 }

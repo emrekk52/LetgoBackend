@@ -27,7 +27,6 @@ namespace LetgoEcommerce
 
         public IConfiguration Configuration { get; }
 
-        // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
             var key = Encoding.ASCII.GetBytes(Configuration.GetSection("Appsettings:Token").Value);
@@ -67,6 +66,8 @@ namespace LetgoEcommerce
             }
 
             app.UseCors(x => x.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin().AllowCredentials());
+          
+
             app.UseAuthentication();
             app.UseMvc();
         }

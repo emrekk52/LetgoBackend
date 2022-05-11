@@ -10,7 +10,8 @@
         public string password { get; set; }
         public int? city_id { get; set; }
         public string city { get; set; }
-        public string image{ get; set; }
+        public string photo_url{ get; set; }
+        public string iframe { get; set; }
 
     }
 }
